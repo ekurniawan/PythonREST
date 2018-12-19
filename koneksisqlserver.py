@@ -1,3 +1,4 @@
+#koneksi
 import pypyodbc as pyodbc
 
 db_host = '.'
